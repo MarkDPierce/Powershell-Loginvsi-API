@@ -1,0 +1,20 @@
+{
+    "Headers": [
+        {
+            "client_id": "ControlPublicApi",
+            "client_secret": "{{CLIENT_SECRET}}",
+            "scope": "api"
+        }
+    ],
+    "URI": [
+        {
+            "BaseURL": "https://{{Your-Login-Enterprise-URL.com}}",
+            "ApiVer": "publicApi/v4"
+        }
+    ],
+    "Directories":[
+        {
+            "Results": "Results\\"
+        }
+    ]
+}

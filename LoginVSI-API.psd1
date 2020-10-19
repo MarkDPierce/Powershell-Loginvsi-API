@@ -31,7 +31,7 @@
             Tags       = @('API')
 
             # A URL to the license for this module.
-            LicenseUri = ''
+            LicenseUri = 'https://mit-license.org/'
 
             # A URL to the main website for this project.
             ProjectUri = ''
